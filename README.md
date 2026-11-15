@@ -1,5 +1,7 @@
 # Sawalni native-audio voice backend
 
+[**Read the example guide →**](https://api.sawalni.com/examples/darija-voice) Hear the speech sample and follow the guide for synthesis and native-audio applications.
+
 Editable source in **[python/src](python/src)** and **[typescript/src](typescript/src)**. Pick either language. No generated bundle is needed.
 
 ## Setup
